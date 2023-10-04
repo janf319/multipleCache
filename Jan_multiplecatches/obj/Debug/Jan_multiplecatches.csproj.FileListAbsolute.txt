@@ -1,0 +1,8 @@
+C:\Users\Fatima\source\repos\Jan_multiplecatches\bin\Debug\Jan_multiplecatches.exe.config
+C:\Users\Fatima\source\repos\Jan_multiplecatches\bin\Debug\Jan_multiplecatches.exe
+C:\Users\Fatima\source\repos\Jan_multiplecatches\bin\Debug\Jan_multiplecatches.pdb
+C:\Users\Fatima\source\repos\Jan_multiplecatches\obj\Debug\Jan_multiplecatches.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\Jan_multiplecatches\obj\Debug\Jan_multiplecatches.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\Jan_multiplecatches\obj\Debug\Jan_multiplecatches.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\Jan_multiplecatches\obj\Debug\Jan_multiplecatches.exe
+C:\Users\Fatima\source\repos\Jan_multiplecatches\obj\Debug\Jan_multiplecatches.pdb
